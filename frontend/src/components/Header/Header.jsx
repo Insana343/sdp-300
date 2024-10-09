@@ -1,7 +1,6 @@
 import React from 'react'
-import './Home.css'
 
-const Home = () => {
+const Header = () => {
   return (
     <div>
       
@@ -9,4 +8,4 @@ const Home = () => {
   )
 }
 
-export default Home
+export default Header
